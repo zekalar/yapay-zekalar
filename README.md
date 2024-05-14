@@ -1,6 +1,6 @@
 # Yapay Zeka Projeleri ve Yapay Zeka Destekli Uygulamalar
 
-Bu listeyi 1-2 haftada bir toplu olarak güncelleyeceğim. Lütfen PR açmayın.
+Bu listeyi 1-2 haftada bir toplu olarak güncelleyeceğim. Lütfen bu dosya için PR açmayın. Fakat başka dosyalar ekleyebilirsiniz.
 
 Umarım bu yapay zeka destekli uygulama projeleri hayatınızı kolaylaştırır. İstek ve tavsiyeleriniz için GitHub'da issue açabilirsiniz.
 
