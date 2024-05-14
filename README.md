@@ -4,11 +4,7 @@ Bu listeyi 1-2 haftada bir toplu olarak güncelleyeceğim. Lütfen PR açmayın.
 
 Umarım bu yapay zeka destekli uygulama projeleri hayatınızı kolaylaştırır. İstek ve tavsiyeleriniz için GitHub'da issue açabilirsiniz.
 
-Yakında listeyi popülerlik skoruna göre sıralayacağım. Bunun için [zekalar.com](https://zekalar.com) üzerinde uygulama keşfetme ve oylama için çalışıyoruz.
-
-Yeni bir arayüz ile daha iyi bir kullanıcı tecrübesi yaşayabilecek ve dilerseniz veritabanını güncelleyebileceksiniz.
-
-Şimdilik bu Markdown liste umarım yeterli olur. İyi günler! 👋 
+Yakında listeyi popülerlik skoruna göre sıralayacağım. (Bunun için bir arayüz üzerinde çalışıyorum.)
 
 
 | Proje | Açıklama | Etiketler |
