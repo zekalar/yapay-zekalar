@@ -1,4 +1,4 @@
-#Seçkin Yapay Zeka Projeleri
+# Seçkin Yapay Zeka Projeleri
 
 Bu liste, ana listeye nazaran filtrelenmiş ve daha farklı kategorilendirilmiş bir versiyondur.
 
